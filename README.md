@@ -25,7 +25,6 @@ Doctors-Portal has been developed for practicing purpose. It is a full stack pro
 * react-calendar
 * react-hook-form
 * react-modal
-* react-owl-carousel
 * react-router-dom
 * fontawesome
 * Node JS
